@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devendra-23&show_icons=true&locale=en" alt="devendra-23" /></p>
 
-📫 How to reach me: Contact me on\
+📫 How to reach me:\
 ♦ Linkedin\
 ♦ Instagram\
 ♦ Email: dev6dhokare@gmail.com
