@@ -25,12 +25,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devendra-23&show_icons=true&locale=en" alt="devendra-23" /></p>
 
-📫 How to reach me:\
+### 📫 How to reach me:
 ♦ Linkedin\
 ♦ Instagram\
 ♦ Email: dev6dhokare@gmail.com
 
-⚡ Fact: Manchester is 🔴
+### Gaming
+♦ X-box
+
+### ⚡ Fact: Manchester is 🔴
 
 <!--
 **Devendra-23/Devendra-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
