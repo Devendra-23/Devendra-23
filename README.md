@@ -3,16 +3,24 @@
 
 
 ### About Me
-♦ Master of Science degree in Computer Science from the University of Bath\
-♦ Bachelor of Science degree in Computer Science from the University of Mumbai\
-♦ WEB DEVELOPMENT\
-♦ SOFTWARE ENGINEERING\
-♦ RED DEVIL
+• MSc Software Systems from the University of Bath\
+• BSE Computer Science from the University of Mumbai\
+• Proficient in programming languages, web technologies, UX/UI design, problem-solving, collaboration, and front-end development\
+• Passionate about computer science and software engineering\
+• Excellent communication skills for effective teamwork and client interaction\
+➼ Expertise in applying Scrum and Agile methodologies for efficient project management\
+➼ Strong determination to become a skilled Web Developer and Software Engineer.
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendra-23&label=Profile%20views&color=0e75b6&style=flat" alt="devendra-23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devendra-23" alt="devendra-23" /></a> </p>
 
-- 📫 How to reach me **dev6dhokare@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/RN_Qtdf11N0AAAAd/space.gif">
+
+
+- 📫 Contact me @ **dev6dhokare@gmail.com**
 
 - 📄 Have a look at my portfolio [https://devendra-dhokare-portfolio-website-v4.netlify.app](https://devendra-dhokare-portfolio-website-v4.netlify.app)
 
