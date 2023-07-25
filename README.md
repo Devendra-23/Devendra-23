@@ -5,7 +5,7 @@
 ### About Me
 • MSc Software Systems from the University of Bath\
 • BSE Computer Science from the University of Mumbai\
-• Proficient in programming languages, web technologies, UX/UI design, problem-solving, collaboration, and front-end development\
+• Proficient in programming languages, web technologies, UX/UI design, problem-solving and front-end development\
 • Passionate about computer science and software engineering\
 • Excellent communication skills for effective teamwork and client interaction\
 ➼ Expertise in applying Scrum and Agile methodologies for efficient project management\
