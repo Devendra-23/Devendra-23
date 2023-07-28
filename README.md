@@ -21,9 +21,9 @@
 <a href="https://instagram.com/the_gatsby18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_gatsby18" height="20" width="20" /></a>
 
 
-- 📄 Have a look at my portfolio [https://devendra-dhokare-portfolio-website-v4.netlify.app](https://devendra-dhokare-portfolio-website-v4.netlify.app)
+- 📄 Have a look at my portfolio: [https://devendra-dhokare-portfolio-website-v4.netlify.app](https://devendra-dhokare-portfolio-website-v4.netlify.app)
 
-- ⚡ Fun fact **Manchester is RED🛑**
+- ⚡ Fun fact: **Manchester is RED🛑**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendra-23&label=Profile%20views&color=0e75b6&style=flat" alt="devendra-23" /> </p>
 
