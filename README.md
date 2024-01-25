@@ -5,11 +5,12 @@
 ### About Me
 • MSc Software Systems from the University of Bath\
 • BSE Computer Science from the University of Mumbai\
+• AWS Certified Cloud Practitioner [CLF-CO2]\
 • Proficient in programming languages, web technologies, UX/UI design, problem-solving and front-end development\
 • Passionate about computer science and software engineering\
 • Excellent communication skills for effective teamwork and client interaction\
 ➼ Expertise in applying Scrum and Agile methodologies for efficient project management\
-➼ Strong determination to become a skilled Web Developer and Software Engineer.
+➼ Strong determination to become a skilled versatile Software Engineer.
 
 
 <img align="centre" alt="Coding" height="400" width="1000"  src="https://giffiles.alphacoders.com/165/16566.gif" >
